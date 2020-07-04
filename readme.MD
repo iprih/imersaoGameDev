@@ -4,12 +4,12 @@
 
 ![frustrated-computer-baboon](https://media.giphy.com/media/ic1otpfvrN8s7VFiaQ/giphy-downsized-large.gif) <p>
 
-- [Video da aplicação]: https://youtu.be/gxTjskeQMxk
+- [Video da aplicação](https://youtu.be/gxTjskeQMxk)
 
 Tecnologias: 
- html
- css
- p5.js (https://editor.p5js.org/iprih/sketches/AhQWzweeh)
- javascript
+- html
+- css
+- [p5.js](https://editor.p5js.org/iprih/sketches/AhQWzweeh)
+- javascript
 
-- [Priscila Silva](https://linkedin.com/in/silva-priscila)
+- Contato: [Priscila Silva](https://linkedin.com/in/silva-priscila)
